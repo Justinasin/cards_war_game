@@ -1,1 +1,3 @@
-# cards_war_game
+# War game with cards
+
+
