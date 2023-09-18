@@ -134,9 +134,8 @@ def continue_game():
 
 
 def initialize_game():
-    # TODO
-    # Add some text with description and rules
-    ...
+    print("Welcome to cards game WAR!")
+    print("To start the game, you need to enter names of player1 and player2 and you're ready to start", end='\n\n')
 
 
 # Initialize players of the game entering their names
